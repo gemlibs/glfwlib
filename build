@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Linking..."
+g++ -g obj/main.o -o main.out -lGL -lglfw

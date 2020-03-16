@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "== main.cpp =="
+g++ -g -c src/main.cpp -o obj/main.o
+
